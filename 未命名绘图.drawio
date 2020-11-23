@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T08:42:50.415Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.11 Safari/537.36" etag="gxAohCA0CRrTzGMRebvn" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T08:45:25.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.11 Safari/537.36" etag="gb0aiEphDTiaQXLlKaEi" version="13.10.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -175,7 +175,7 @@
             <mxPoint x="254.5" y="758" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCY2eJbqUOLNiPiCaD8f-133" value="上午谈判&lt;br&gt;（销售团队）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-133" value="商务谈判&lt;br&gt;（销售团队）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
           <mxGeometry x="195" y="758" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oCY2eJbqUOLNiPiCaD8f-134" value="&lt;font color=&quot;#000000&quot;&gt;商务合同&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=center;strokeColor=#2D7600;fontColor=#ffffff;fillColor=#00CC00;" vertex="1" parent="1">
