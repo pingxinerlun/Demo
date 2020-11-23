@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T03:34:53.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.11 Safari/537.36" etag="C1_6hDBjIo4CD2DWKQqL" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T03:42:54.317Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.11 Safari/537.36" etag="pm8UqqEiJvC6pY9dtZtE" version="13.10.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="767" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -18,6 +18,24 @@
         </mxCell>
         <mxCell id="oCY2eJbqUOLNiPiCaD8f-13" value="&lt;font color=&quot;#000000&quot;&gt;售后服务阶段&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeColor=#2D7600;fontColor=#ffffff;fillColor=#00FF00;" vertex="1" parent="1">
           <mxGeometry x="760" y="120" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-14" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="40" y="150" width="240" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="280" y="150" width="240" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="520" y="150" width="240" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=left;" vertex="1" parent="1">
+          <mxGeometry x="760" y="150" width="240" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-18" value="销售线索收集&lt;br&gt;初步客户意向沟通&lt;br&gt;（销售团队）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-21" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FFFFFF;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="180" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
