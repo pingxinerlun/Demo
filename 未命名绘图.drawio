@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-23T06:52:27.236Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.11 Safari/537.36" etag="v2Y46y8Z_G_VUy6Y2K7u" version="13.10.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-23T06:56:42.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.11 Safari/537.36" etag="CDCp5HpHfaEMuFJLF6LK" version="13.10.1" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="767" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -638,16 +638,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oCY2eJbqUOLNiPiCaD8f-166" value="销售线索收集&lt;br&gt;初步客户意向沟通&lt;br&gt;（销售团队）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="637" y="170" width="120" height="60" as="geometry" />
+          <mxGeometry x="642" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oCY2eJbqUOLNiPiCaD8f-167" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FFFFFF;direction=south;" vertex="1" parent="1">
           <mxGeometry x="542" y="230" width="320" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oCY2eJbqUOLNiPiCaD8f-168" value="初步需求沟通&lt;br&gt;（售前团队）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="502" y="263" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oCY2eJbqUOLNiPiCaD8f-169" value="解决方案沟通&lt;br&gt;（咨询团队）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="822" y="263" width="80" height="60" as="geometry" />
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-168" value="制定部分设计&lt;br&gt;（项目经理团队）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="493" y="263" width="98" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oCY2eJbqUOLNiPiCaD8f-171" value="" style="endArrow=classic;html=1;endSize=6;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -661,15 +658,40 @@
             <mxPoint x="862" y="264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oCY2eJbqUOLNiPiCaD8f-174" value="初步需求沟通&lt;br&gt;（售前团队）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
-          <mxGeometry x="662" y="263" width="80" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="oCY2eJbqUOLNiPiCaD8f-175" value="" style="endArrow=classic;html=1;endSize=6;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="702" y="245" as="sourcePoint" />
             <mxPoint x="701.64" y="263.01" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-179" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=#FFFFFF;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="650" y="1320" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-180" value="" style="endArrow=classic;html=1;endSize=6;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="1340" as="sourcePoint" />
+            <mxPoint x="650" y="1353" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-181" value="" style="endArrow=classic;html=1;endSize=6;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="1341" as="sourcePoint" />
+            <mxPoint x="970" y="1354" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-182" value="" style="endArrow=classic;html=1;endSize=6;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="1335" as="sourcePoint" />
+            <mxPoint x="809.6399999999999" y="1353.01" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-183" value="技术设计&lt;br&gt;（技术服务团队）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="653" y="263" width="98" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="oCY2eJbqUOLNiPiCaD8f-184" value="产品实现设计&lt;br&gt;（商业产品团队）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;align=center;" vertex="1" parent="1">
+          <mxGeometry x="813" y="263" width="98" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
